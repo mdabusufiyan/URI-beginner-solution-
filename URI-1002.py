@@ -5,4 +5,4 @@ R=float(input())
 A=n*R*R
 print("A=%.4f"%A)
 
-#Solved by https://github.com/sufiyanism
+#Solved by https://github.com/mdabusufiyan
